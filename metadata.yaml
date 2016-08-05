@@ -1,0 +1,27 @@
+_repo: Le-C-t--de-Guermantes---Premi-re-partie_8946
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Proust, Marcel
+    birthdate: 1871
+    deathdate: 1922
+    gutenberg_agent_id: '987'
+    url: http://www.gutenberg.org/2009/agents/987
+    wikipedia: http://en.wikipedia.org/wiki/Marcel_Proust
+description: ''
+gutenberg_bookshelf: FR Littérature
+gutenberg_issued: '2004-07-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '8946'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Autobiographical fiction'
+- !lcc 'PQ'
+- !lcsh 'France -- Social life and customs -- Fiction'
+- GITenberg
+title: Le Côté de Guermantes - Première partie
+url: http://www.gutenberg.org/ebooks/8946
