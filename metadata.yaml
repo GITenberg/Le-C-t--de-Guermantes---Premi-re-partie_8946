@@ -1,5 +1,8 @@
 _repo: Le-C-t--de-Guermantes---Premi-re-partie_8946
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Proust, Marcel
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/987
     wikipedia: http://en.wikipedia.org/wiki/Marcel_Proust
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/8946#Le-C-t--de-Guermantes---Premi-re-partie
 gutenberg_bookshelf: FR Littérature
 gutenberg_issued: '2004-07-15'
 gutenberg_type: Text
